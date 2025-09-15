@@ -16,7 +16,7 @@ Este projeto tem como objetivo consolidar os conhecimentos adquiridos sobre máq
 ## 🛠️ Tecnologias Utilizadas
 
 - [Microsoft Azure](https://portal.azure.com)
-- Ubuntu Server 22.04 LTS (VM)
+- Ubuntu Pro 24.04 LTS (VM)
 - Git e GitHub
 - Markdown
 
